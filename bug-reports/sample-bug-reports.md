@@ -117,3 +117,5 @@ Field is missing
 
 **Severity:** Critical  
 **Priority:** High  
+**Attachments:**
+![Disabled button bug](../screenshots/bug-disabled-button.jpg)
