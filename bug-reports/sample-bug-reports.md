@@ -103,19 +103,21 @@ Vacation data differs between modules
 
 
 
-## Bug 6: Missing "Acting as Approver" field in Create Vacation form
+## Bug 6: “+” button appears disabled but is still clickable
 
 **Steps to Reproduce:**
-1. Navigate to “Vacation” tab
-2. Open “Create Vacation”
+1. Navigate to “Company” tab
+2. Click "+" to create new Company
+3. Observe "+" button appears disabled
+4. Click on the "+" button
 
 **Expected Result:**
-Field "Acting as Approver" should be visible
+Disabled button should not be clickable
 
 **Actual Result:**
-Field is missing
+Button is clickable and triggers action
 
-**Severity:** Critical  
-**Priority:** High  
+**Severity:** Medium  
+**Priority:** Medium  
 **Attachments:**
 ![Disabled button bug](../screenshots/bug-disabled-button.png)
