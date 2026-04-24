@@ -35,7 +35,7 @@ Empty email form is opened without recipients
 **Severity:** Major  
 **Priority:** High  
 **Attachments:**
-![Email without recipient bug](../screenshots/bug-email-no-recipient.mp4)
+![Email without recipient bug video](../screenshots/bug-email-no-recipient.mp4)
 
 
 ## Bug 3: Department count mismatch between panels
