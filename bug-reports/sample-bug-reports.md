@@ -12,6 +12,8 @@ Multiple companies with identical names are displayed
 
 **Severity:** Major  
 **Priority:** High  
+**Attachments:**
+![Company duplicates bug](../screenshots/bug-company-duplicates.png)
 
 
 ## Bug 2: System allows sending email without selecting recipients
@@ -32,7 +34,8 @@ Empty email form is opened without recipients
 
 **Severity:** Major  
 **Priority:** High  
-
+**Attachments:**
+![Email without recipient bug](../screenshots/bug-email-no-recipient.png)
 
 
 ## Bug 3: Department count mismatch between panels
@@ -51,7 +54,8 @@ Different department counts are displayed
 
 **Severity:** Major  
 **Priority:** Medium  
-
+**Attachments:**
+![Department count mismatch bug](../screenshots/bug-department-mismatch.png)
 
 
 ## Bug 4: HTML code displayed in message popup
@@ -70,6 +74,8 @@ Popup displays raw HTML code
 
 **Severity:** Major  
 **Priority:** High  
+**Attachments:**
+![HTML message bug](../screenshots/bug-html-message.png)
 
 
 
@@ -91,6 +97,9 @@ Vacation data differs between modules
 
 **Severity:** High  
 **Priority:** High  
+**Attachments:**
+![Vacation data inconsistency bug](../screenshots/bug-vacation-inconsistency.png)
+![Vacation data inconsistency bug](../screenshots/bug-vacation-inconsistency2.png)
 
 
 
