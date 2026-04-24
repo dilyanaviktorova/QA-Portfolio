@@ -13,7 +13,7 @@ Multiple companies with identical names are displayed
 **Severity:** Major  
 **Priority:** High  
 **Attachments:**
-![Company duplicates bug](../screenshots/bug-company-duplicates.png)
+![Company duplicates bug](../screenshots/bug-company-duplicates.jpg)
 
 
 ## Bug 2: System allows sending email without selecting recipients
@@ -35,7 +35,7 @@ Empty email form is opened without recipients
 **Severity:** Major  
 **Priority:** High  
 **Attachments:**
-![Email without recipient bug](../screenshots/bug-email-no-recipient.png)
+![Email without recipient bug](../screenshots/bug-email-no-recipient.mp4)
 
 
 ## Bug 3: Department count mismatch between panels
@@ -55,7 +55,7 @@ Different department counts are displayed
 **Severity:** Major  
 **Priority:** Medium  
 **Attachments:**
-![Department count mismatch bug](../screenshots/bug-department-mismatch.png)
+![Department count mismatch bug](../screenshots/bug-department-mismatch.jpg)
 
 
 ## Bug 4: HTML code displayed in message popup
@@ -75,7 +75,7 @@ Popup displays raw HTML code
 **Severity:** Major  
 **Priority:** High  
 **Attachments:**
-![HTML message bug](../screenshots/bug-html-message.png)
+![HTML message bug](../screenshots/bug-html-message.jpg)
 
 
 
@@ -98,8 +98,8 @@ Vacation data differs between modules
 **Severity:** High  
 **Priority:** High  
 **Attachments:**
-![Vacation data inconsistency bug](../screenshots/bug-vacation-inconsistency.png)
-![Vacation data inconsistency bug](../screenshots/bug-vacation-inconsistency2.png)
+![Vacation data inconsistency bug](../screenshots/bug-vacation-inconsistency.jpg)
+![Vacation data inconsistency bug](../screenshots/bug-vacation-inconsistency2.jpg)
 
 
 
